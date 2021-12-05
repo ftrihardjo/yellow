@@ -1,0 +1,15 @@
+{
+  "name": "yellow",
+  "version": "1.0.0",
+  "description": "yellow.ai question two",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Otto Trihardjo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  }
+}
